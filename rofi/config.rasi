@@ -1,1 +1,4 @@
-test
+/* @theme "/usr/share/rofi/themes/DarkBlue.rasi" */
+
+/* Dark theme */
+@import "~/.cache/wal/colors-rofi-light"
